@@ -1,0 +1,19 @@
+{
+  "name": "url-to-html-api",
+  "version": "1.0.0",
+  "description": "url to image api ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blaise Fonseca",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "puppeteer": "^13.7.0",
+    "winston": "^2.3.1"
+  }
+}
